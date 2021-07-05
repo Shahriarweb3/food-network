@@ -1,6 +1,15 @@
 h1{
     font-size: 50px;
+    font-family: 'Roboto Slab', serif;
 }
-.orange-color{
+.blue-violet{
     color: blueviolet;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 15px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(blueviolet,red)
 }
