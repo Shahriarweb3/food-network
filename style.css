@@ -1,8 +1,11 @@
+#first-section{
+    margin-top: 20px;
+}
 h1{
     font-size: 50px;
     font-family: 'Roboto Slab', serif;
 }
-.blue-violet{
+#blue-violet{
     color: blueviolet;
 }
 .link-button{
@@ -23,19 +26,20 @@ section{
 .half-width img{
     width: 80%;
 }
-.middle-banner{
+#middle-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    margin-top: 50px;
 }
-.female{
+#female{
     width: 50%;
     padding-left: 15%;
     padding-top: 5%;
 }
-.female img{
+#female img{
     width: 60%;
 }
-.about-section{
+#about-section{
     width: 50%;
     padding-right: 10%;
     padding-top: 10%;
@@ -43,7 +47,7 @@ section{
 .centered-text{
     text-align: center;
 }
-.recipies{
+#recipies{
     padding-top: 50px;
     padding-bottom: 30px;
 }
@@ -64,20 +68,23 @@ img{
 h3{
     font-size: 30px;
 }
-.popularity{
+#popularity{
     width: 95%;
     box-shadow: 10px 10px 40px gray;
     margin-left: 2.5%;
     margin-top: 50px;
     border-radius: 15px;
     margin-bottom: 50px;
-    
 }
 .text-section{
+    color: black;
     width: 30%;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-left: 150px;
+}
+.h2-color{
+    color: black;
 }
 footer{
     margin-top: 20px;
